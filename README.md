@@ -30,11 +30,11 @@ Este é um projeto simples de Lista de Contatos desenvolvido em Java com o NetBe
 - Edite ou exclua um contato existente.
 
 ## Equipa
-Ayrton António
-Jacinto Alberto 
-Simão Chaves
-Pedro Alváro
-Xavier Gunza                                          
+- Ayrton António
+- Jacinto Alberto 
+- Simão Chaves
+- Pedro Alváro
+- Xavier Gunza                                          
 
 ## Licença
 
